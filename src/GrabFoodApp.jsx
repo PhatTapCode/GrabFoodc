@@ -1,7 +1,7 @@
 import React from "react";
 import Header from"./Header.jsx";
 import Nav from "./Nav.jsx";
-import comga from "./assets/img/comga.png";
+import comtam from "./assets/img/comtam.png";
 import Footer from "./Footer.jsx";
 import './index.css';
 import { Link } from 'react-router-dom';
@@ -70,8 +70,8 @@ function App() {
       <div className="list-store-cha">
         <div className="list-store">
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -79,8 +79,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -88,8 +88,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -97,46 +97,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-        </div>
-        <div className="list-store">
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -146,8 +108,8 @@ function App() {
         </div>
         <div className="list-store">
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -155,8 +117,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -164,8 +126,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -173,46 +135,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-        </div>
-        <div className="list-store">
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
-            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
-            rating="4.4"
-            time="15"
-            distance="3.5"
-            offer="Ưu đãi đến 45K"
-          />
-          <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -222,8 +146,8 @@ function App() {
         </div>
         <div className="list-store">
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -231,8 +155,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -240,8 +164,8 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
@@ -249,8 +173,84 @@ function App() {
             offer="Ưu đãi đến 45K"
           />
           <PromoItem
-            imgSrc={comga}
-            title="Cơm Gà Da Giòn Phú Quý - Huỳnh Tấn Phát"
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+        </div>
+        <div className="list-store">
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+        </div>
+        <div className="list-store">
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="CCơm tấm vui vẻ"
+            categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
+            rating="4.4"
+            time="15"
+            distance="3.5"
+            offer="Ưu đãi đến 45K"
+          />
+          <PromoItem
+            imgSrc={comtam}
+            title="Cơm tấm vui vẻ"
             categories="Cơm, Bún - Phở - Mì - Hủ tiếu, Bún - Phở..."
             rating="4.4"
             time="15"
